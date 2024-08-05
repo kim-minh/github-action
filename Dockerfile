@@ -1,2 +1,2 @@
-FROM redis:latest
+FROM alpine:latest
 COPY . .
